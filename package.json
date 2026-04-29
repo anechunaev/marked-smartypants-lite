@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/calculuschild/marked-smartypants-lite#readme",
   "peerDependencies": {
-    "marked": ">=4 <16"
+    "marked": ">=16"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^15.2.3",
